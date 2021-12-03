@@ -35,7 +35,6 @@ $(document).ready(function() {
 
   hourUpdate();
 
-
   var interval = setInterval(hourUpdate, 15000);
 
 
